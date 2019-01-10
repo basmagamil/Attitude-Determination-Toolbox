@@ -23,6 +23,6 @@ A- Non-Linear Equations of Motion</br>
 B- Linear Equations of Motion</br>
 
 ## How to Run:
-Make sure all the files are in your matlab path, and run "main.m" file.
+Make sure all the files and folders are in your matlab path, and run "main.m" file.
 
 ### Check the pdf file for further details.
